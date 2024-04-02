@@ -1,0 +1,1 @@
+INSERT INTO clientes (nombre, genero, edad, identificacion, direccion, telefono, contraseña, estado) VALUES('Juan Pérez', 'Masculino', 30, '1234567890', 'Calle 123', '123456789', 'contraseña123', 'Activo');

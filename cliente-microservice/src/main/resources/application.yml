@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: cliente-microservice
+  rabbitmq:
+    host: localhost
+    password: guest
+    port: 15672
+    username: guest
+    exchange: user.exchange
+    routingkey: user.routingkey
+server:
+  port: 8081

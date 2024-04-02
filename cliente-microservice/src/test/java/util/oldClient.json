@@ -1,0 +1,11 @@
+{
+  "clienteId": 1,
+  "nombre": "Juan Pérez",
+  "genero": "Masculino",
+  "edad": 30,
+  "identificacion": "1234567890",
+  "direccion": "Calle 123, Ciudad",
+  "telefono": "123456789",
+  "contraseña": "contraseñaAntigua",
+  "estado": "Activo"
+}
